@@ -48,4 +48,4 @@ Exploratory Data Analysis (EDA)
 Business Intelligence
 📧 Contact
 LinkedIn: www.linkedin.com/in/nikhil-bhingare-2b835728b
-Email: your-bhingarenikhil8@gmail.com
+Email: bhingarenikhil8@gmail.com
